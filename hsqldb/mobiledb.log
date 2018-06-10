@@ -1,0 +1,36 @@
+/*C14*/SET SCHEMA PUBLIC
+INSERT INTO CLOUD_REQUEST VALUES(3,'0001','CIDC-O-DDF12ADB96874484BF2FA8DD8F06111B','121243544','{   "applyno":"CIDC-O-DDF12ADB96874484BF2FA8DD8F06111B",   "ecordercode":"121243544",   "opttype":0,   "trial":0,   "bossorderid":12312434,   "custid":12312312,   "custcode":"21436575564",   "custtype":2,   "registersource":0,   "custname":"\u4e2d\u56fd\u79fb\u52a8",   "userid":1001,   "username":"\u7528\u6237\u540d",   "useralias":"\u59d3\u540d",   "mobile":"13800138000",   "email":"13800138000@139.com",   "productcode":"2121212",   "begintime":1411718510123,   "endtime":1411718510123,   "productparas":[     {"key":"sad",       "value":"111"},     {"key":"qweqw",       "value":"222"}   ],   "services":[     {"opttype":0,       "code":"111",       "begintime":1411718510123,       "endtime":1411718510123,       "serviceparas":[         {"key":"sad",           "value":"111"},         {"key":"qweqw",           "value":"222"}       ]     }   ] } ','wrewetqwe213123123efsdgfdsgwe',1232413432)
+COMMIT
+DISCONNECT
+/*C15*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C16*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C17*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C18*/SET SCHEMA PUBLIC
+INSERT INTO CLOUD_ORDER VALUES('CIDC-O-DDF12ADB96874484BF2FA8DD8F06111B','121243544',0,FALSE,'12312434','21436575564','2121212',1411718510123,1411718510123,'[{"key":"sad","value":"111"},{"key":"qweqw","value":"222"}]','[{"opttype":0,"code":"111","begintime":1411718510123,"endtime":1411718510123,"serviceparas":[{"key":"sad","value":"111"},{"key":"qweqw","value":"222"}]}]')
+COMMIT
+DISCONNECT
+/*C19*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C20*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C21*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C22*/SET SCHEMA PUBLIC
+INSERT INTO CLOUD_REQUEST VALUES(4,'0002','CIDC-O-DDF12ADB96874484BF2FA8DD8F06111B','121243544','{   "applyno":"CIDC-O-DDF12ADB96874484BF2FA8DD8F06111B",   "ecordercode":"121243544",   "opttype":0,   "trial":0,   "bossorderid":12312434,   "custid":12312312,   "custcode":"21436575564",   "custtype":2,   "registersource":0,   "custname":"\u4e2d\u56fd\u79fb\u52a8",   "userid":1001,   "username":"\u7528\u6237\u540d",   "useralias":"\u59d3\u540d",   "mobile":"13800138000",   "email":"13800138000@139.com",   "productcode":"2121212",   "begintime":1411718510123,   "endtime":1411718510123,   "productparas":[     {"key":"sad",       "value":"111"},     {"key":"qweqw",       "value":"222"}   ],   "services":[     {"opttype":0,       "code":"111",       "begintime":1411718510123,       "endtime":1411718510123,       "serviceparas":[         {"key":"sad",           "value":"111"},         {"key":"qweqw",           "value":"222"}       ]     }   ] } ','wrewetqwe213123123efsdgfdsgwe',1232413432)
+COMMIT
+DISCONNECT
+/*C23*/SET SCHEMA PUBLIC
+INSERT INTO CLOUD_REQUEST VALUES(5,'0002','CIDC-O-DDF12ADB96874484BF2FA8DD8F06111B','121243544','{     "applyno":"CIDC-O-DDF12ADB96874484BF2FA8DD8F06111B",     "ecordercode":"121243544",     "opttype":0,     "custid":12312312,     "custcode":"21436575564",     "productcode":"2121212",     "operatime":1411718510123,     "effecttime":1411718510123 }','wrewetqwe213123123efsdgfdsgwe',1232413432)
+COMMIT
+DISCONNECT
+/*C24*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C25*/SET SCHEMA PUBLIC
+INSERT INTO CLOUD_REQUEST VALUES(6,'0002','CIDC-O-DDF12ADB96874484BF2FA8DD8F06111B','121243544','{     "applyno":"CIDC-O-DDF12ADB96874484BF2FA8DD8F06111B",     "ecordercode":"121243544",     "opttype":0,     "custid":12312312,     "custcode":"21436575564",     "productcode":"2121212",     "operatime":1411718510123,     "effecttime":1411718510123 }','wrewetqwe213123123efsdgfdsgwe',1232413432)
+COMMIT
+DISCONNECT
+/*C26*/SET SCHEMA PUBLIC
+DISCONNECT
